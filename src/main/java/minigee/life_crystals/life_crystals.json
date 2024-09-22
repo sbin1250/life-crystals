@@ -1,0 +1,12 @@
+{
+  // The amount of health each life crystal should give (2 health is equal to 1 heart)
+  "healthIncrement": 2,
+  // The amount of health each player should start with
+  "baseHealth": 20,
+  // The maximum amount of health allowed
+  "maxHealth": 100000,
+  // The chance of finding life crystals in each dungeon chest
+  "lootChance": 0.5,
+  // Determines if life crystals and shards should be found in dungeon chests
+  "addChestLoot": true
+}
